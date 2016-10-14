@@ -7,6 +7,7 @@
 
 library(shiny)
 library(markdown)
+library(d3heatmap)
 
 shinyUI( fluidPage(
   h1("Rtt Percentile Heatmap"),
